@@ -1,4 +1,5 @@
-## XÂY DỰNG MÔ HÌNH NHẬN DIỆN TÉ NGÃ ĐỘT QUỴ VỚI YOLO V8 BẢNG CẢI TIẾNG
+## XÂY DỰNG MÔ HÌNH NHẬN DIỆN CẢM XÚC QUA VĂN BẢN 
+# chỉ mô hình chưa xây dựng hay áp dụng vào một app, web hoàn chỉnh.
 <img src="./ketqua/mau.png" alt="!!err image loading." width="700"/>
 
 ## Lời mở đầu 
