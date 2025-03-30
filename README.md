@@ -1,5 +1,5 @@
 ## XÂY DỰNG MÔ HÌNH NHẬN DIỆN CẢM XÚC QUA VĂN BẢN 
-### chỉ mô hình chưa xây dựng hay áp dụng vào một app, web hoàn chỉnh.
+### (chỉ mô hình chưa xây dựng hay áp dụng vào một app, web hoàn chỉnh.)
 <img src="./ketqua/mau.png" alt="!!err image loading." width="700"/>
 
 ## Lời mở đầu 
